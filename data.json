@@ -1,0 +1,23 @@
+{
+    "plantas": [
+      {
+        "id": 1,
+        "nombre": "Venus",
+        "tierra": "Tierra ácida y sustrato de turba",
+        "ambientacion": "Luz solar directa"
+      },
+      {
+        "id": 2,
+        "nombre": "Nepenthes",
+        "tierra": "Tierra bien drenada y sustrato de turba",
+        "ambientacion": "Luz indirecta brillante"
+      },
+      {
+        "id": 3,
+        "nombre": "Drosera",
+        "tierra": "Tierra húmeda y sustrato de sphagnum",
+        "ambientacion": "Luz solar directa"
+      }
+    ]
+  }
+  
